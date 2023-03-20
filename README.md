@@ -74,6 +74,7 @@ If you want to be able to execute the project you will first need to install the
 - Create Open the backend with Visual Studio code:
     - Go to the menu debug > start run and debug
     - This will open a page on https://localhost:7142/swagger/index.html
+ <img width="1614" alt="Screenshot 2023-03-19 at 10 15 27 PM" src="https://user-images.githubusercontent.com/4625540/226231329-600a2d7b-1442-4f45-b7bf-3f83459b456f.png">
 
 ### Start the front-end
 - Install front-end dependencies 
@@ -87,3 +88,5 @@ npm run dev
 ```
 
 The local frontend application will be running at localhost:5173.
+
+<img width="1243" alt="Screenshot 2023-03-19 at 10 15 15 PM" src="https://user-images.githubusercontent.com/4625540/226231341-0c6f63d9-63f8-4f26-9f82-529bb8bb75f7.png">
